@@ -1,0 +1,19 @@
+.footer {
+  text-align: center;
+  padding: 60px;
+  background-color: rgb(44, 43, 43);
+}
+
+.list {
+    display: block;
+}
+
+.footer a {
+  font-size: 30px;
+  color: #0e0cac;
+}
+
+.footer p {
+  font-size: 15px;
+  color: rgb(255, 255, 255, 0.6);
+}
